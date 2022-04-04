@@ -1,2 +1,2 @@
-# IMAGE cOLLAGE
+# IMAGE COLLAGE
 Created with CodeSandbox
